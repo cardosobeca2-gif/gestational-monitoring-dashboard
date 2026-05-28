@@ -1,5 +1,10 @@
 # Projeto de Otimização do Acompanhamento Gestacional
 
+Projeto desenvolvido em Google Planilhas com foco em automação operacional, organização gestacional e visualização de indicadores.
+
+![Dashboard Operacional](dashboard-operacional.png.jpeg)
+
+---
 ## Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de otimizar o acompanhamento gestacional através de uma estrutura automatizada em Google Planilhas, facilitando a visualização, organização e acompanhamento operacional das gestantes.
@@ -69,8 +74,23 @@ Painel visual desenvolvido para facilitar a análise rápida dos indicadores ges
 
 ---
 
-# Fórmulas e recursos utilizados
+# Tecnologias e recursos utilizados
 
+## Fórmulas
+- SE
+- FILTER
+- CONT.SE
+- CONT.SES
+- HOJE
+
+## Recursos do Google Planilhas
+- Formatação condicional
+- Menus suspensos
+- Dashboards automatizados
+- Indicadores visuais
+- Filtros dinâmicos
+- Organização automatizada de dados
+  
 Durante o desenvolvimento do projeto foram utilizadas funções e recursos do Google Planilhas como:
 
 ## Fórmulas
@@ -154,4 +174,20 @@ Este projeto contribuiu diretamente para o desenvolvimento de habilidades como:
 
 # Observação
 
-Os dados apresentados nas imagens e demonstrações foram anonimizados para preservar a privacidade e confidencialidade das informações.
+Os dados apresentados nas imagens e demonstrações foram anonimizados para preservar a privacidade e confidencialidade das informações
+
+---
+
+# Demonstração visual
+
+## Dashboard Operacional
+![Dashboard](dashboard-operacional.png.jpeg)
+
+## Controle Gestacional
+![Controle](controle-gestacional.png.jpeg)
+
+## Pacientes com Necessidade de Baixa
+![Baixa](pacientes-baixa.png.jpeg)
+
+## Gestantes em Acompanhamento
+![Acompanhamento](gestantes-acompanhamento.png.jpeg)
