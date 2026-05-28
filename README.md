@@ -26,21 +26,32 @@ A solução desenvolvida permitiu centralizar informações, automatizar classif
 
 O projeto foi dividido em diferentes abas automatizadas para facilitar a organização das informações:
 
-## Controle Gestacional
+
+##  Controle Gestacional
 
 Estrutura principal responsável pelo armazenamento das informações das pacientes, cálculo automático da idade gestacional e atualização dinâmica de status.
+
+![Controle](controle-gestacional.png.jpeg)
+
 
 ## Gestantes em Acompanhamento
 
 Aba automatizada responsável por separar dinamicamente as pacientes que permanecem em acompanhamento gestacional.
 
+![Gestantes em acompanhamento](gestantes-acompanhamento.png.jpeg)
+
 ## Pacientes com Necessidade de Baixa
 
 Aba automatizada para identificação rápida das pacientes que necessitam de encerramento gestacional no sistema.
 
+![Baixa Gestacional](pacientes-baixa.png.jpeg)
+
 ## Dashboard Operacional
 
 Painel visual desenvolvido para facilitar a análise rápida dos indicadores gestacionais por equipe.
+
+![Dashboard Operacional](dashboard-operacional.png.jpeg)
+
 
 ---
 
